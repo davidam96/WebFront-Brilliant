@@ -1,0 +1,148 @@
+.row {
+    margin: 0;
+}
+#cabecera nav {
+    padding: 10px 9%;
+}
+.fondo {
+    background-image: url(/img/fondo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 63px;
+
+}
+.bg-oscuro {
+    background-color: #141413;
+}
+.micontainer {
+    width: 80%;
+    margin: 0 auto;
+}
+img[src="img/logo_brilliant.png"] {
+    margin-right: 50px;
+}
+.text-minegro {
+    color: black !important;
+}
+.btn {
+    padding: 4px 70px !important;
+}
+.btn[class~="bg-primary"] {
+    padding: 4px 64px !important;
+}
+#botones {
+    margin-right: -22px;
+}
+nav ul li a {
+    font-size: 13.5px;
+    font-weight: 600;
+}
+.dropdown-menu {
+    height: 330px;
+    overflow-y: scroll;
+}
+.bold {
+    font-weight: 530;
+}
+.opacity:hover {
+    background-color: white;
+    opacity: 0.6;
+}
+.texto-cab1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+.texto-cab2 {
+    font-size: 16px;
+    color: #B8B8B8;
+}
+.card {
+    border-radius: 0;
+}
+#populares .card-text {
+    z-index: -1;
+    bottom: 42%;
+    padding: 0 10px 0 0;
+}
+#populares .card-body {
+    max-height: 80px;
+}
+#populares .card:hover img {
+    z-index: -1;
+}
+#populares .card:hover .card-text {
+    z-index: 4;
+}
+.card-minegro {
+    background-color: #1F1F1E;
+}
+.card-mititulo {
+    font-size: 18px;
+    font-weight: bold;
+}
+.mitexto {
+    font-size: 16px;
+}
+#cursos p {
+    font-size: 14px;
+    font-weight: 560;
+}
+#cursos p:first-child {
+    margin-top: -12px;
+}
+#cursos .miposicion {
+    position: relative;
+    width: 2px;
+    height: 2px;
+    top: -100px;
+}
+#cursos .miposicion[name="LOGIC AND DEDUCTION"] {
+    position: relative;
+    width: 2px;
+    height: 2px;
+    top: -150px;
+}
+#cursos .card {
+    border: none;
+}
+#cursos .card-title {
+    font-size: 16.5px;
+    font-weight: 580;
+}
+#cursos .card-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ACACAC;
+}
+#categoria {
+    background-color: white;
+    margin-top: 37px;
+}
+.miborde {
+    border-bottom: 1px rgb(230, 226, 226) solid;
+    width: 100%;
+    margin-top: -10px;
+}
+#stickybox {
+    border-top: white 1px solid;
+}
+#stickybox nav {
+    background-color: #F7F7F7 !important;
+    width: 100%;
+    padding: 14px 10%;
+    margin: 60px 0;
+}
+#stickybox .navbar-brand {
+    font-size: 24px;
+    font-weight: 530;
+}
+html {
+    scroll-behavior: smooth;
+}
+.miboton {
+    background-color: #ECEDEF;
+    font-size: 14px;
+    border-radius: 2px;
+    margin-top: 10px;
+    padding: 6px 18px !important;
+}
