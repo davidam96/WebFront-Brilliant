@@ -53,28 +53,22 @@
   </practice>
   <populares>
     <curso>
-      <imagen desc="popular1">
-        https://ds055uzetaobb.cloudfront.net/brioche/chapter/Logic_1_by_1_white-wRqCbD.png</imagen>
+      <imagen desc="popular1">https://ds055uzetaobb.cloudfront.net/brioche/chapter/Logic_1_by_1_white-wRqCbD.png</imagen>
       <nombre>Logic</nombre>
       <descripcion>Stretch your analytic muscles with knights, knaves, logic gates, and more!</descripcion>
     </curso>
     <curso>
-      <imagen desc="popular2">
-        https://ds055uzetaobb.cloudfront.net/brioche/chapter/CS_Essentials_1_by_1_white-G3Jn8h.png
-      </imagen>
+      <imagen desc="popular2">https://ds055uzetaobb.cloudfront.net/brioche/chapter/CS_Essentials_1_by_1_white-G3Jn8h.png</imagen>
       <nombre>Computer Science Fundamentals</nombre>
       <descripcion>Wrap your mind around computational thinking, from everyday tasks to algorithms.</descripcion>
     </curso>
     <curso>
-      <imagen desc="popular3">https://ds055uzetaobb.cloudfront.net/brioche/chapter/ANN_1_by_1_white-Owr6U3.png
-      </imagen>
+      <imagen desc="popular3">https://ds055uzetaobb.cloudfront.net/brioche/chapter/ANN_1_by_1_white-Owr6U3.png</imagen>
       <nombre>Artificial Neural Networks</nombre>
       <descripcion>A quick dive into a cutting-edge computational method for learning.</descripcion>
     </curso>
     <curso>
-      <imagen desc="popular4">
-        https://ds055uzetaobb.cloudfront.net/brioche/chapter/Math_Fundamentals_1_by_1_white-VjlxwM.png
-      </imagen>
+      <imagen desc="popular4">https://ds055uzetaobb.cloudfront.net/brioche/chapter/Math_Fundamentals_1_by_1_white-VjlxwM.png</imagen>
       <nombre>Mathematical Fundamentals</nombre>
       <descripcion>The essential tools for mastering algebra, logic, and number theory!</descripcion>
     </curso>
@@ -92,29 +86,24 @@
         <descripcion>A guided tour through our most beautiful and delightful puzzles.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Logic_II_1_by_1_-_Dark_mode_white-FmrLoX.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Logic_II_1_by_1_-_Dark_mode_white-FmrLoX.png</imagen>
         <nombre>Logic II</nombre>
         <descripcion>Exercise your rationality and learn the mathematical dialects of logic!</descripcion>
       </curso>
-      <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Machine_Logic_1_by_1_white-b2d9Kf.png
-        </imagen>
+      <curso>img
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Machine_Logic_1_by_1_white-b2d9Kf.png</imagen>
         <nombre>Logical Circuitry</nombre>
         <descripcion>Coming soon.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="MATHEMATICAL THINKING">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Math_Fundamentals_1_by_1_white-VjlxwM.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Math_Fundamentals_1_by_1_white-VjlxwM.png</imagen>
         <nombre>Mathematical Fundamentals</nombre>
         <descripcion>The essential tools for mastering algebra, logic, and number theory!</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Number_Theory_1_by_1_white-8LM61D.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Number_Theory_1_by_1_white-8LM61D.png</imagen>
         <nombre>Number Theory</nombre>
         <descripcion>Explore the powers of divisibility, modular arithmetic, and infinity.</descripcion>
       </curso>
@@ -124,9 +113,7 @@
         <descripcion>Master the fundamentals for working in decimal, binary, hexadecimal, and other bases.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Knowledge_and_Uncertainty_1_by_1_-_robot_thinker-TVwqRH.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Knowledge_and_Uncertainty_1_by_1_-_robot_thinker-TVwqRH.png</imagen>
         <nombre>Knowledge and Uncertainty</nombre>
         <descripcion>Coming soon.</descripcion>
       </curso>
@@ -138,20 +125,17 @@
     </categoria>
     <categoria nombre="ALGEBRA">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Pre-Alg_I_1_by_1_white-tkbs76.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Pre-Alg_I_1_by_1_white-tkbs76.png</imagen>
         <nombre>Pre-Algebra</nombre>
         <descripcion>Start your algebra journey here with an introduction to variables and equations.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Alg_Fundamentals_1_by_1_white-Vj5L6t.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Alg_Fundamentals_1_by_1_white-Vj5L6t.png</imagen>
         <nombre>Algebra Fundamentals</nombre>
         <descripcion>Supercharge your algebraic intuition and problem solving skills!</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Algebra_I_1_by_1_white-cmDsm9.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Algebra_I_1_by_1_white-cmDsm9.png</imagen>
         <nombre>Algebra I</nombre>
         <descripcion>Strengthen your algebra skills by exploring factorials, exponents, and the unknown.</descripcion>
       </curso>
@@ -161,35 +145,29 @@
         <descripcion>Play and experiment with interactive graphs to build a strong foundation in algebra!</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Complex_Numbers_1_by_1_white-l5T5Jm.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Complex_Numbers_1_by_1_white-l5T5Jm.png</imagen>
         <nombre>Complex Numbers</nombre>
         <descripcion>The beauty of Algebra through complex numbers, fractals, and Euler’s formula.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="GEOMETRY">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Geo_Fundamentals_1_by_1__white-qVpDcP.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Geo_Fundamentals_1_by_1__white-qVpDcP.png</imagen>
         <nombre>Geometry Fundamentals</nombre>
         <descripcion>An intuitive introduction to the essentials of geometry.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Beautiful_Geometry_1_by_1_white-yNIdqS.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Beautiful_Geometry_1_by_1_white-yNIdqS.png</imagen>
         <nombre>Beautiful Geometry</nombre>
         <descripcion>Escape the ordinary by taking an adventure through these beautiful topics.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Geometry_I_1_by_1_white-QUnsiR.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Geometry_I_1_by_1_white-QUnsiR.png</imagen>
         <nombre>Geometry I</nombre>
         <descripcion>Build a foundation for geometry with angles, triangles, and polygons.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Geometry_II_1_by_1_-_Dark_mode-DH5867.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Geometry_II_1_by_1_-_Dark_mode-DH5867.png</imagen>
         <nombre>Geometry II</nombre>
         <descripcion>Continue on the road to geometry mastery with this proof-centric course.</descripcion>
       </curso>
@@ -202,62 +180,53 @@
     <categoria nombre="STATISTICS AND PROBABILITY">
       <curso>
         <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Probability_Fundamentals_1_by_1_white-p8QJwW.png
-        </imagen>
+          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Probability_Fundamentals_1_by_1_white-p8QJwW.png</imagen>
         <nombre>Probability Fundamentals</nombre>
         <descripcion>Take a chance and explore the math of unpredictability.</descripcion>
       </curso>
       <curso>
         <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Applied_Probability_1_by_1_white-KdFYLW.png
-        </imagen>
+          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Applied_Probability_1_by_1_white-KdFYLW.png</imagen>
         <nombre>Applied Probability</nombre>
         <descripcion>A framework for understanding the world around us, from sports to science.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Dumbfounding_Probability-4Dsm0i.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Dumbfounding_Probability-4Dsm0i.png</imagen>
         <nombre>Perplexing Probability</nombre>
         <descripcion>Warp your brain with these tricky probability puzzles.</descripcion>
       </curso>
       <curso>
         <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Casino_Games_1_by_1_-_Dark_mode-pbDf56.png
-        </imagen>
+          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Casino_Games_1_by_1_-_Dark_mode-pbDf56.png</imagen>
         <nombre>Casino Probability</nombre>
         <descripcion>Master mathematical strategies for winning casino games.</descripcion>
       </curso>
       <curso>
         <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Random_Variables__Dist._1_by_1.1_white-hu3Be9.png
-        </imagen>
+          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Random_Variables__Dist._1_by_1.1_white-hu3Be9.png</imagen>
         <nombre>Random Variables &amp; Distributions</nombre>
         <descripcion>The essential quantitative tools of chance.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Stats_Fundamentals_-_white-WzARRl.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Stats_Fundamentals_-_white-WzARRl.png</imagen>
         <nombre>Statistics Fundamentals</nombre>
         <descripcion>Data can be deceiving - use math to discern truth from fiction.</descripcion>
       </curso>
       <curso>
         <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Math_for_Quantitative_Science_white-TwgaEl.png
-        </imagen>
+          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Math_for_Quantitative_Science_white-TwgaEl.png</imagen>
         <nombre>Math for Quantitative Finance</nombre>
         <descripcion>Tour the mathematics used to model the chaos of the financial markets.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="CONTEST MATH">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Contest_Math_1_1_by_1_white-tBevii.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Contest_Math_1_1_by_1_white-tBevii.png</imagen>
         <nombre>Contest Math I</nombre>
         <descripcion>Learn the key techniques and train hard for contest math.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Contest_Math_2_1_by_1_white-fNuwyI.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Contest_Math_2_1_by_1_white-fNuwyI.png</imagen>
         <nombre>Contest Math II</nombre>
         <descripcion>Guided training for mathematical problem solving at the level of the AMC 10 and 12.</descripcion>
       </curso>
@@ -275,8 +244,7 @@
         <descripcion>Explore trigonometry through identities, polar graphing, and solving triangles.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Calculus_in_a_nutshell_-_white-CBWEEx.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Calculus_in_a_nutshell_-_white-CBWEEx.png</imagen>
         <nombre>Calculus in a Nutshell</nombre>
         <descripcion>Focus on the core ideas at the heart of calculus.</descripcion>
       </curso>
@@ -293,9 +261,7 @@
     </categoria>
     <categoria nombre="ADVANCED MATHEMATICS">
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Multivariable_Calculus_1_by_1_white-1si3tS.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Multivariable_Calculus_1_by_1_white-1si3tS.png</imagen>
         <nombre>Multivariable Calculus</nombre>
         <descripcion>Calculus of many variables, from vectors to volume.</descripcion>
       </curso>
@@ -305,8 +271,7 @@
         <descripcion>Matrices, vectors, and more - from theory to the real world!</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Vector_Calculus_1_by_1_white-dgTQJE.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Vector_Calculus_1_by_1_white-dgTQJE.png</imagen>
         <nombre>Vector Calculus</nombre>
         <descripcion>Complete the multivariable calculus saga with vector fields.</descripcion>
       </curso>
@@ -321,29 +286,24 @@
         <descripcion>The frontier of scientific modeling.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Group_Theory_1_by_1__white-QNhQZR.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Group_Theory_1_by_1__white-QNhQZR.png</imagen>
         <nombre>Group Theory</nombre>
         <descripcion>Explore groups through symmetries, applications, and problems.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="SCIENTIFIC THINKING">
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Scientific_Thinking_1_by_1__white-T5yPNj.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Scientific_Thinking_1_by_1__white-T5yPNj.png</imagen>
         <nombre>Scientific Thinking</nombre>
         <descripcion>Open your eyes to the world around you by solving puzzles with science.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Science_Essentials1_by_1_white-AXGSBa.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Science_Essentials1_by_1_white-AXGSBa.png</imagen>
         <nombre>Science Essentials</nombre>
         <descripcion>A curated toolkit for learning the most essential science concepts.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Waves_and_Light_1_by_1_white-jTEPpj.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Waves_and_Light_1_by_1_white-jTEPpj.png</imagen>
         <nombre>Waves and Light</nombre>
         <descripcion>Explore waves through sound, light, and more!</descripcion>
       </curso>
@@ -353,123 +313,98 @@
         <descripcion>Investigate everyday physics, from household objects to weather patterns.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Knowledge_and_Uncertainty_1_by_1_-_robot_thinker-TVwqRH.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Knowledge_and_Uncertainty_1_by_1_-_robot_thinker-TVwqRH.png</imagen>
         <nombre>Knowledge and Uncertainty</nombre>
         <descripcion>Coming soon.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="CLASSICAL MECHANICS">
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Classical_Mechanics_1_by_1_white-mH8XUv.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Classical_Mechanics_1_by_1_white-mH8XUv.png</imagen>
         <nombre>Classical Mechanics</nombre>
         <descripcion>Hardcore training for the aspiring physicist.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Gravitational_Physics_1_by_1_white-bhI09P.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Gravitational_Physics_1_by_1_white-bhI09P.png</imagen>
         <nombre>Gravitational Physics</nombre>
         <descripcion>Explore Newton&apos;s law of gravity and unpack its universe of consequences.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Special_Relativity_1_by_1_white-bh62Mg.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Special_Relativity_1_by_1_white-bh62Mg.png</imagen>
         <nombre>Special Relativity</nombre>
         <descripcion>Get up to (light) speed on Einstein&apos;s theory of relativity.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Electromagnetism_-_alt_1_by_1_white-rQeXKB.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Electromagnetism_-_alt_1_by_1_white-rQeXKB.png</imagen>
         <nombre>Electricity and Magnetism</nombre>
         <descripcion>Coming soon.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="QUANTUM MECHANICS">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Quantum_Objects_1_by_1_white-0AV6FR.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Quantum_Objects_1_by_1_white-0AV6FR.png</imagen>
         <nombre>Quantum Objects</nombre>
         <descripcion>When things get small, things get weird.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Quantum_Computing_1_by_1_-_Dark_mode-RLmdxN.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Quantum_Computing_1_by_1_-_Dark_mode-RLmdxN.png</imagen>
         <nombre>Quantum Computing</nombre>
         <descripcion>Solve hard problems by computing with quantum mechanics.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="APPLIED SCIENCE">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Chemistry_1_by_1_white-I3WSBP.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Chemistry_1_by_1_white-I3WSBP.png</imagen>
         <nombre>The Chemical Reaction</nombre>
         <descripcion>All the bits and bolts of chemistry.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Computational_Biology_1_by_1_white-Ze18IB.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Computational_Biology_1_by_1_white-Ze18IB.png</imagen>
         <nombre>Computational Biology</nombre>
         <descripcion>A back-of-the-envelope approach to problems from RNA folding to Darwin&apos;s evolutionary tree.
         </descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Solar_energy_1_by_1_white-z0S499.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Solar_energy_1_by_1_white-z0S499.png</imagen>
         <nombre>Solar Energy</nombre>
         <descripcion>Learn the physics of energy harvesting from our most renewable source, the Sun.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Astronomy_1_by_1_white-aDv6us.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Astronomy_1_by_1_white-aDv6us.png</imagen>
         <nombre>Astronomy</nombre>
         <descripcion>Unlock cosmic wonders, from star life cycles to the fate of the universe.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="FOUNDATIONAL COMPUTER SCIENCE">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/CS_Essentials_1_by_1_white-G3Jn8h.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/CS_Essentials_1_by_1_white-G3Jn8h.png</imagen>
         <nombre>Computer Science Fundamentals</nombre>
         <descripcion>Wrap your mind around computational thinking, from everyday tasks to algorithms.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/cs_algos_intro_image_light-N2leer.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/cs_algos_intro_image_light-N2leer.png</imagen>
         <nombre>Algorithm Fundamentals</nombre>
         <descripcion>How to make a computer do what you want, elegantly and efficiently.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Programming_with_Python_1_by_1_white-iJAJQn.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Programming_with_Python_1_by_1_white-iJAJQn.png</imagen>
         <nombre>Programming with Python</nombre>
         <descripcion>Learn one of the most in-demand programming languages the fun way.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Data_Structures_1_by_1_white-UYCcaA.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Data_Structures_1_by_1_white-UYCcaA.png</imagen>
         <nombre>Data Structures</nombre>
         <descripcion>The fundamental toolkit for the aspiring computer scientist or programmer.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Intro_to_ANN_1_by_1_white-cmw8bn.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Intro_to_ANN_1_by_1_white-cmw8bn.png</imagen>
         <nombre>Introduction to Neural Networks</nombre>
         <descripcion>Learn why neural networks are such flexible tools for learning.</descripcion>
       </curso>
     </categoria>
     <categoria nombre="APPLIED COMPUTER SCIENCE">
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Search_Engines_1_by_1_white-feQo3k.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Search_Engines_1_by_1_white-feQo3k.png</imagen>
         <nombre>Search Engines</nombre>
         <descripcion>There&apos;s a lot of data out there, learn how to search it effectively.</descripcion>
       </curso>
@@ -479,21 +414,17 @@
         <descripcion>A quick dive into a cutting-edge computational method for learning.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Machine_Learning_1_by_1_white-VobITm.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Machine_Learning_1_by_1_white-VobITm.png</imagen>
         <nombre>Machine Learning</nombre>
         <descripcion>Advanced quantitative techniques to analyze data where humans fall short.</descripcion>
       </curso>
       <curso>
-        <imagen>
-          https://ds055uzetaobb.cloudfront.net/brioche/chapter/Quantum_Computing_1_by_1_-_Dark_mode-RLmdxN.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Quantum_Computing_1_by_1_-_Dark_mode-RLmdxN.png</imagen>
         <nombre>Quantum Computing</nombre>
         <descripcion>Solve hard problems by computing with quantum mechanics.</descripcion>
       </curso>
       <curso>
-        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Computer_Memory_1_by_1_white-UQCOQn.png
-        </imagen>
+        <imagen>https://ds055uzetaobb.cloudfront.net/brioche/chapter/Computer_Memory_1_by_1_white-UQCOQn.png</imagen>
         <nombre>Computer Memory</nombre>
         <descripcion>How memory actually works, layer by layer.</descripcion>
       </curso>
